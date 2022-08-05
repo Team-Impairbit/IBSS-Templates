@@ -33,7 +33,7 @@ $( document ).ready(function() {
 
     function InitializeTemnplates(){
 
-        $.getJSON('./js/templates.json', function(res) {
+        $.getJSON('./IBSS-Templates/js/templates.json', function(res) {
           // console.log(res);
           templates = res.templates;
           TotalTemplates = templates.length;
