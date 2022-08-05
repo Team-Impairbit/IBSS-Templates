@@ -1,0 +1,71 @@
+{
+    "templates": [
+        {
+            "title": "Zuscon",
+            "layouts": [
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_1.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_2.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_3.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_4.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_5.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_6.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_7.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_8.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_9.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_10.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_11.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_12.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_1.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_2.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_3.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_4.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_5.html",
+                "templates\\zusconlanding-200\\Zuscon_v2.0.0\\HTML\\index_dark_6.html"
+            ]
+        },
+        {
+            "title": "GetLeads",
+            "layouts": [
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v1\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v2\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v3\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v4\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v5\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v6\\index.html",
+                "templates\\getleadslanding-10\\getleads\\getleads-html\\v7\\index.html"
+            ]
+        },
+        {
+            "title": "Deoxa",
+            "layouts": [
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-1.html",
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-2.html",
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-3.html",
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-4.html",
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-5.html",
+                "templates\\deoxalandinghtml-10\\Deoxa_v1.0.0\\HTML\\layout-one-6.html"
+            ]
+        },
+        {
+            "title": "Landsay",
+            "layouts": [
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-1.html",
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-2.html",
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-3.html",
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-4.html",
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-5.html",
+                "templates\\landsaylanding-200\\Landsay_v2.0.0\\HTML\\index-6.html"
+            ]
+        },
+        {
+            "title": "Nody",
+            "layouts": [
+                "templates\\nodylandeing-10\\Nody_v1.0.0\\Landing\\layout-one-1.html",
+                "templates\\nodylandeing-10\\Nody_v1.0.0\\Landing\\layout-one-2.html",
+                "templates\\nodylandeing-10\\Nody_v1.0.0\\Landing\\layout-one-3.html",
+                "templates\\nodylandeing-10\\Nody_v1.0.0\\Landing\\layout-one-4.html",
+                "templates\\nodylandeing-10\\Nody_v1.0.0\\Landing\\layout-one-5.html"
+            ]
+        }
+    ]
+}

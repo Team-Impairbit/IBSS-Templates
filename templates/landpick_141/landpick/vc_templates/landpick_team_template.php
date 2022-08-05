@@ -1,0 +1,1 @@
+<?php echo apply_filters('landpick_team_template', $atts, $content); ?>

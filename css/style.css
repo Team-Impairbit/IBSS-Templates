@@ -1,0 +1,59 @@
+
+
+body{
+    margin: 0;
+}
+#topbar{
+    text-align: right;
+}
+
+header{
+    position: relative;
+}
+
+
+header #logo{
+    text-align:center;
+}
+header #logo img{
+    height: 70px;
+}
+
+#main-container{
+    /* position: relative;
+    width:100%; */
+    background: #ddd;
+    padding-bottom: 25px;
+}
+
+.btn-group{
+    margin: auto;
+    text-align: center;
+    padding-top: 15px;
+    display: block;
+}
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
+
+.templateDropdown{
+    padding-top: 15px;
+}
+
+
+.viewBtn{
+    outline:none;
+}
+.activeBtn{
+    background-color: #0b3663;
+    border-color: #0d3762;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.5);
+}
